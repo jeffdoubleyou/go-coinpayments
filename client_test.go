@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/jeffwalsh/go-coinpayments"
+	"github.com/jeffdoubleyou/go-coinpayments"
 )
 
 func testClient() (*coinpayments.Client, error) {
