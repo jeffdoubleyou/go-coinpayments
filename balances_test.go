@@ -1,10 +1,9 @@
 package coinpayments_test
 
-
 import (
 	"testing"
 
-	"github.com/jeffdoubleyou/coinpayments"
+	"github.com/jeffdoubleyou/go-coinpayments"
 )
 
 func TestCallBalances(t *testing.T) {
